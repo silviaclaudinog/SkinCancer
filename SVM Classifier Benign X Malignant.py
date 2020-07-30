@@ -13,8 +13,8 @@ import os, os.path
 
 #Número de imagens testadas por classe
 
-n_imagens = 500
-passo = 500
+n_imagens = 1100
+passo = 1100
 
 array_imagens = np.zeros((2*n_imagens,224*224*3), dtype=object)
 
